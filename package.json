@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "Simple currency converter app with pure javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuks-ossai/currency-converter.git"
+  },
+  "keywords": [
+    "currency", 
+    "currency converter", 
+    "app"
+  ],
+  "author": "Wisdom Ossai Chuks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuks-ossai/currency-converter/issues"
+  },
+  "homepage": "https://github.com/chuks-ossai/currency-converter#readme"
+}
+ 
