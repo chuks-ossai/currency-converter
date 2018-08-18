@@ -12,13 +12,17 @@ body {
 }
 @media (min-width: 768px) { 
     .container {
-        width: 40%;
+     width: 550px;
     }
     .footer h3{
         font-size: 18px;
     }
  }
-
+ @media (max-width: 576px) {
+    h1 {
+        font-size: 27px;
+    }
+ }
  .footer {
      text-align: center;
      background: black;
